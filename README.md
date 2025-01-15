@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FrontEndMentor](https://www.frontendmentor.io/solutions/responsive-four-features-cards--bhIgVZ3EN)
-- Live Site URL: [GitHub](https://github.com/AlizaIkram/four-card-feature-section)
+- Live Site URL: [Netlify](https://github.com/AlizaIkram/four-card-feature-section)
 
 ## My process
 
