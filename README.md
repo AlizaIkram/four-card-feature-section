@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-- ![Desktop design](./screenshots/desktop.png)
-- ![Mobile design](./screenshots/mobile.png)
+![Desktop design](./screenshots/desktop.png)
+![Mobile design](./screenshots/mobile.png)
 
 ### Links
 
-- Solution URL: [FrontEndMentor](https://your-solution-url.com)
+- Solution URL: [FrontEndMentor](https://www.frontendmentor.io/solutions/responsive-four-features-cards--bhIgVZ3EN)
 - Live Site URL: [GitHub](https://github.com/AlizaIkram/four-card-feature-section)
 
 ## My process
