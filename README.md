@@ -59,5 +59,3 @@ I'll continue to gain proficiency in using Grids and Mobile-first approach.
 
 - Linkedin - [Aliza Ikram](https://www.linkedin.com/in/aliza-ikram/)
 - Frontend Mentor - [@AlizaIkram](https://www.frontendmentor.io/profile/AlizaIkram)
-
-## Acknowledgments
